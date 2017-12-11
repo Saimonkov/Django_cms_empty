@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c348c61-a049-4683-97a2-efa278dc59ad" name="Default" comment="commit">
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/js/contact_me.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/js/jqBootstrapValidation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/static/vendor/jquery/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/templates/base.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/templates/fullwidth.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/templates/sidebar_left.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/templates/sidebar_right.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/views.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/django_cms_empty/wsgi.py" />
+    <list default="true" id="1c348c61-a049-4683-97a2-efa278dc59ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512989496083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1512989752250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512989752250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
