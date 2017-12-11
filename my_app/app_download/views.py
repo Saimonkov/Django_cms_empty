@@ -10,7 +10,7 @@ from django.http import HttpResponse
 
 def app_download(request):
     # code = sys.getdefaultencoding()
-    os.system('git clone https://github.com/Saimonkov/MY_APP.git 1_folder')
+    os.system('git clone https://github.com/Saimonkov/MY_APP.git New_Project_Folder')
     # print(code)
     # print("Привет")
     return HttpResponse('asdf')
